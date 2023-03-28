@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My name is Trevor, I like sports but my favorite is football.
